@@ -23,7 +23,8 @@ for(var user of users){
     document.write("<li>",user,"</li>")
 }
 document.write("</ul>")
-/*----------------------*/
+
+
 for(var i=0;i<5;i=i+1)
 {console.log(i)
 } 
